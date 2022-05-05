@@ -1,0 +1,16 @@
+---
+title: "Rubric"
+author: "hjbbrooks"
+date: '2022-05-05'
+output: html_document
+---
+
+## 587 Final Rubric
+
+45 pts - Create a working r package
+
+15 pts - Pull a tree and paint it
+
+15 pts - Use data on birds found at field site to correlate traits
+
+25 pts - Specifically look at question of mixed-species flocking, body size, and phylogenetic relationships - relevant to my own research
